@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+yfinance
+requests
+ccxt
+ta
+scikit-learn
+statsmodels
+plotly
